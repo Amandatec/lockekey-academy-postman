@@ -1,0 +1,105 @@
+{
+	"id": "c768c120-7eea-4d7f-8e3b-0268cebe3442",
+	"values": [
+		{
+			"key": "schema",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "mailAdmin",
+			"value": "sysadmin@qacoders.com",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "passwordAdmin",
+			"value": "1234@Test",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "TokenAdmin",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "existingRegisterCompanies",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "msgUpdatedDepartment",
+			"value": "Cadastro atualizado com sucesso!",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgCostCenterNameRequired",
+			"value": "O campo 'ID do centro de custos' é obrigatório.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgDepartmentInvalidId",
+			"value": "Não foi possível encontrar o departamento com o id especificado",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgDepartmentInactive",
+			"value": "Departamento inativado com sucesso!",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgDepartmentAlreadyInactive",
+			"value": "Esse departamento já se encontra inativado.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgCostCenterSuccessInactive",
+			"value": "Centro de custos inativado com sucesso!",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgDepartmentCreated",
+			"value": "Cadastro realizado com sucesso.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgDepartmentDuplicated",
+			"value": "Não é possível salvar esse registro. Departamento já cadastrado no sistema.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgCostCenterIdRequired",
+			"value": "O campo 'ID do centro de custos' é obrigatório.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgCostCenterIdInvalid",
+			"value": "CastError: Cast to ObjectId failed for value \\\"5265656521kh7\\\" (type string) at path \\\"_id\\\" for model \\\"CostCenter\\",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgMax50characters",
+			"value": "O campo 'departamento' deve possuir no máximo 50 caracteres.",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-02-01T22:55:53.965Z",
+	"_postman_exported_using": "Postman/10.22.2"
+}

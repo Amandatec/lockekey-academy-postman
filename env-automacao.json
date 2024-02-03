@@ -1,0 +1,500 @@
+{
+	"id": "83e62c40-4f4b-4c2f-a584-8e7191ba87ac",
+	"name": "LockeKey",
+	"values": [
+		{
+			"key": "FirstName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "LastName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "FullName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "cpf",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Domain",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Email",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "IdUserAdmin",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "https://locke-key.qacoders-academy.com.br",
+			"enabled": true
+		},
+		{
+			"key": "TokenUser",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "NewPassword",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Password",
+			"value": "1234@Test",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "BoardName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "InicialName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "FinalName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "50charactersString",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "msgBoardError",
+			"value": "O campo 'diretoria' é obrigatório.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "FirstCorporateName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "FinalCorporateName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CorporateName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CompanyMail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "RegisterCompany",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "MatrizType",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Matriz",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Telephone",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "FirstContactName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "LastContactName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ResponsibleContact",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ServiceDescription",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "AddressNumber",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "StreetAddress",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "City",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Country",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "State",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "randomLocale",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ZipCode",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "AddressComplement",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "District",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "companyId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "BoardId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "DepartmentName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "DepartmentNameCreated",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CostCenterId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CostCenterName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "msgDepartmentNameRequired",
+			"value": "O campo Departamento é obrigatório.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgDepartmentCharacters",
+			"value": "O campo 'diretoria' só pode conter letras e o caractere especial '&'.",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "msgDepartmentCreated",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Name49characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Name50characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CorporateName100characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CorporateName99characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Corpora#5b6e5f",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "2#5d540c#0d0c34",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "2768872761371",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "2313580509485",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "238406480854",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "34935427426",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "RegisterCompany13numbers ",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "RegisterCompany14numbers ",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "RegisterCompany13numbers",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "RegisterCompany14numbers",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "RegisterCompany15numbers",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "matriz99characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "matriz100characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "matriz101characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ResponsibleContact99characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ResponsibleContact100characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ResponsibleContact101characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Telephone14characters ",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Telephone14numbers",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Telephone15numbers",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Telephone16numbers",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Telephone19numbers",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Telephone20numbers",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Telephone21numbers",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Boardname49characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Boardname50characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Boardname51characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "FullName100characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "FullName99characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "FullName101characters",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "DepartmentNamecharacter&",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "variable_key",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-02-01T22:55:41.369Z",
+	"_postman_exported_using": "Postman/10.22.2"
+}
