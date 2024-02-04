@@ -24,6 +24,12 @@ jobs:
       - name: Verify Newman version
         run: newman --version
 
+      - name: Debug information
+        run: |
+          pwd
+          echo "Contents of the current directory:"
+          ls -al
+
       - name: Run Test
         run: newman run ./Amanda-ApiLockekey.json -e ./env-automacao.json -g ./env-global.json -r cli,htmlextra
         
