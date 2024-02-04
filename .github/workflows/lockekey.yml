@@ -24,7 +24,7 @@ jobs:
           npm install -g newman
           npm install -g newman-reporter-htmlextra
       - name: Run Test
-        run: newman run Amanda-ApiLockekey.json -e env-automacao.json -g env-global.json -r cli,htmlextra
+        run: newman run ./Amanda-ApiLockekey.json -e ./env-automacao.json -g ./env-global.json -r cli,htmlextra
         
       - name: Report
         uses: actions/upload-artifact@v3.1.2
