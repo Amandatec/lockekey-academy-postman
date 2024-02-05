@@ -31,12 +31,12 @@ jobs:
           ls -al
 
       - name: Run Test
-        run: newman run ./Amanda-ApiLockeKey.json -e ./env-automacao.json -g ./env-global.json -r cli,htmlextra
+        run: newman run ./Amanda-ApiLockeKey.json -e ./env-automacao.json -g ./env-global.json --delay-request 1 --reporters cli, -r htmlextra --reporter-htmlextra-export ./result/Report.html
         
       - name: Report
         uses: actions/upload-artifact@v3.1.2
         with: 
           name: Reports
-          path: newman
+          path: ./result/Report.html
 
 
