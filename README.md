@@ -1,6 +1,6 @@
 # Projeto de automação com Postman
 
-Projeto de automação com Postman e emissão de Relatório Newman
+Projeto de automação com Postman desenvolvido pela Squad LockeKey no Qa.Coders Academy
 
 ## Tecnologias utilizadas
 
@@ -51,11 +51,7 @@ newman run Amanda-ApiLockekey.json -e env-automacao.json -g env-global.json -r h
 
 Se você optou por rodar os testes com o report htmlextra, você gerou um arquivo html com o resultado dos teses e para verificar as validações você pode abrir a pasta **newman** que foi criada no local em que os arquivos de collection e environment se encontram.
 
-## Entre em contato
+## Projeto Desenvolvido por: 
 
-  <a href="https://www.linkedin.com/in/amandaoliveira--/" style="margin-right: 1vw" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="http://discordapp.com/users/Amandatec#4699" style="margin-right: 1vw"  target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/amanda_almajor/" style="margin-right: 1vw"  target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:amandatec.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
- Made by [**Amandatec**](https://www.linkedin.com/in/amandaoliveira--/)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/73588768?v=4" width=90><br/><sub>Amanda Oliveira</sub>](https://github.com/amandatec)<br/>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaoliveira--/)](https://www.linkedin.com/in/amandaoliveira--/) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33519484?v=4" width=90><br/><sub>Amauri Almeida</sub>](https://github.com/amaurialmeida)<br/>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amauri-almeida26/)](https://www.linkedin.com/in/amauri-almeida26/) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/109545654?v=4" width=90><br/><sub>Andreza Oliveira</sub>](https://github.com/Andreza0593)<br/>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreza-oliveira-02a7ab163)](https://www.linkedin.com/in/andreza-oliveira-02a7ab163) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/148631954?v=4" width=90><br/><sub>Patricia Vitoriano</sub>](https://github.com/PatriciaVitoriano)<br/>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patricia-castro-vitoriano)](https://www.linkedin.com/in/patricia-castro-vitoriano) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/116967975?v=4" width=90><br/><sub>Thaís Marchetti</sub>](https://github.com/thaisconto)<br/>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaismarchetticonto/)](https://www.linkedin.com/in/thaismarchetticonto/)
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
